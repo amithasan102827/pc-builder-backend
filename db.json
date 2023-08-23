@@ -1,0 +1,1246 @@
+[
+    {
+        "category": "CPU",
+        "name": "AMD Ryzen 9 5900X Processor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-5900x/ryzen-9-5900x-001-500x500.jpg",
+        "status": "In Stock",
+        "description": "AMD Ryzen 9 5900X Processor is the Worldâ€™s Best Gaming Processor which is 12 cores to power through gaming, streaming and more. It will provides the Fastest speed in the Game to get the high-speed gaming performance of the worldâ€™s best desktop processor. It is featured with Encode faster, Render faster, Iterate faster and Create more, faster with AMD Ryzen processors. Here used AMD Zen 3 Core Architecture which is the fastest cores in the world for PC gamers. The AMD StoreMI Technology is the fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. Here also used AMD Ryzen Master Utility which is the Simple and Powerful Overclocking Utility for AMD Ryzen processors. This latest AMD Ryzen 9 5900X Processor featured with CPU Cores 12, Threads 24, Base Clock 3.7GHz, Max Boost Clock Up to 4.8GHz, Total L2 Cache 6MB, Total L3 Cache 64MB, Unlocked, CMOS, TSMC 7nm FinFET, Package AM4, PCI Express 4.0 Version, Default TDP / TDP 105W, Max Temps 90Â°C supports Up to 3200MHz DDR4 memory. This processor also comes with AMD Ryzen Master Utility, which is the Simple and Powerful Overclocking Utility for AMD Ryzen processors. The latest AMD Ryzen 9 5900X Processor has 03 years of warranty (No Warranty for Fan or Cooler)",
+        "price": 40500,
+        "individualRating": 4.5,
+        "averageRating": 4.2,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Speed": "3.7GHz Up to 4.8GHz"
+            },
+            {
+                "Cache": "Total L2 Cache: 6MB Total L3 Cache: 64MB"
+            },
+            {
+                "Cores": "12"
+            },
+            {
+                "Threads": "24"
+            },
+            {
+                "Type": "DDR4"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "CPU",
+        "name": "Intel 13th Gen Core i7 13700KF Raptor Lake Processor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i7-13700kf/core-i7-13700kf-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The Intel Core i7-13700KF 3.4 GHz 16-Core LGA 1700 Processor will boost your productivity, gaming, and content production. This 13th-generation desktop CPU expands on the Hybrid Core design and Intel 7 process by packing 16 cores onto a single chip, four more than the prior generation, while still fitting the LGA 1700 socket. The Core i7-13700KF is designed for great performance, with eight low-voltage Efficient-cores that handle background activities for multitasking, and eight 3.4 GHz Performance-cores that deliver speed for demanding programs and games. The built-in Intel Thread Director guarantees that the two function in unison by dynamically and intelligently distributing tasks to the appropriate core at the appropriate moment. With 30MB of cache and a Turbo Boost Max 3.0 clock of 5.4 GHz, this CPU is designed to tackle demanding applications. This CPU may also be overclocked for increased performance. PCI Express 5.0 and dual-channel DDR5 memory at 5600 MHz are also supported by the Core i7-13700KF. This processor comes with a 03-year warranty.",
+        "price": 44800,
+        "individualRating": 4.5,
+        "averageRating": 4.2,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Speed": " 3.40 GHz up to 5.40 GHz"
+            },
+            {
+                "Cache": "Total L2 Cache: 6MB Total L3 Cache: 64MB"
+            },
+            {
+                "Cores": "16"
+            },
+            {
+                "Threads": "24"
+            },
+            {
+                "Type": "DDR4"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "CPU",
+        "name": "AMD Ryzen 5 5600G Processor with Radeon Graphics",
+        "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600g/ryzen-5-5600g-500x500.jpg",
+        "status": "In Stock",
+        "description": "The AMD Ryzen 5 5600G Processor with Radeon Graphics is built in intelligence featuring 6 processor cores, 12 threads, and an astonishingly efficient 45-65W TDP. In this processor, It stands with 3.9GHz Base Clock, 4.4GHz Max Boost Clock, 3MB L2 Cache, 16MB L3 Cache with AM4 Package and TSMC 7nm FinFET CMOS. This processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. The AMD Ryzen 5 5600G Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. With the high processing capability, this processor is also integrated with Radeon Graphics. The processor has a graphics frequency of 1900MHz and a graphics Core count of 7. The AMD Ryzen 5 5600G Processor is built for modern business, AMD technologies provide layers of protection, seamless manageability, and reliable longevity.",
+        "price": 13200,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Speed": " 3.9GHz up to 4.4GHz"
+            },
+            {
+                "Cache": "L2: 3MB, L3: 16MB"
+            },
+            {
+                "Cores": "6"
+            },
+            {
+                "Threads": "12"
+            },
+            {
+                "Type": "DDR4"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "CPU",
+        "name": "Intel 13th Gen Core i5 13400F Raptor Lake Processor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600g/ryzen-5-5600g-500x500.jpg",
+        "status": "In Stock",
+        "description": "The Intel 13th Gen Core i5 13400F Processor is compatible with LGA1700 Sockets. With 10 total cores and 16 total threads, this CPU is ideal for gamers and heavy users. It also has a new Raptor Cove CPU core and is built on the ESF 'Intel 7' manufacturing node at 10nm. With a clock speed of up to 2.50 GHz, this CPU will provide you with the necessary power. With eight low-voltage Efficient-cores managing background operations for multitasking and six 2.50 GHz Performance-cores powering applications and games, the Core i5-13400F is intended to give outstanding performance for daily workloads. The integrated Intel Thread Director ensures that the two work in tandem by dynamically and intelligently assigning workloads to the right core at the appropriate time. The memory type of this processor is DDR5-4800; this CPU supports high-speed DDR5 memory, which provides excellent performance. This CPU can accommodate up to 128 GB of RAM, making it ideal for demanding users. This CPU has two memory channels, providing excellent performance and versatility.",
+        "price": 23900,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Speed": "2.50 GHz up to 4.60 GHz"
+            },
+            {
+                "Cache": " 20 MB, Socket: LGA1700"
+            },
+            {
+                "Cores": "10"
+            },
+            {
+                "Threads": "16"
+            },
+            {
+                "Type": "DDR5"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "CPU",
+        "name": "AMD Ryzen 5 5600X Processor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-500x500.jpg",
+        "status": "In Stock",
+        "description": "That isnt the only change from Zen 2 to Zen 3, however. Since it is a gaming-focused CPU, the move to a single eight-core core complex (CCX) design in Zen 3 gives the 5600X a leg up over the Ryzen 5 3600X. In the Ryzen 5 3600X, the processor was split between two four-core CCXs, made up of two dual-core core chiplet dies (CCDs) each, with one CCX disabled in the second CCD.Having the cores spread across two CCDs meant that there was increased travel time for any tasks that utilized all six cores at once, which, for example, games like GTA V and titles in the Civilization series are both known for. By that same note, lightly threaded titles like Counter-Strike: Global Offensive and Rainbow Six: Siege both suffered slightly on the Ryzen 5 3600X and on the follow-up refresh in the Zen 2 stack, due to increased latency.No more, though. Now that all the cores of the Ryzen 5 5600X have been centralized into a single CCX design, AMD's engineers have reduced the travel time between cores and decreased the latency at the same time.",
+        "price": 20000,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Speed": " 3.7GHz Up to 4.6GHz"
+            },
+            {
+                "Cache": " 3MB, L3 Cache: 32MB"
+            },
+            {
+                "Cores": "6"
+            },
+            {
+                "Threads": "12"
+            },
+            {
+                "Type": "DDR4"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "CPU",
+        "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100/i3-12100-500x500.jpg",
+        "status": "In Stock",
+        "description": "That isnt the only change from Zen 2 to Zen 3, however. Since it is a gaming-focused CPU, the move to a single eight-core core complex (CCX) design in Zen 3 gives the 5600X a leg up over the Ryzen 5 3600X. In the Ryzen 5 3600X, the processor was split between two four-core CCXs, made up of two dual-core core chiplet dies (CCDs) each, with one CCX disabled in the second CCD.Having the cores spread across two CCDs meant that there was increased travel time for any tasks that utilized all six cores at once, which, for example, games like GTA V and titles in the Civilization series are both known for. By that same note, lightly threaded titles like Counter-Strike: Global Offensive and Rainbow Six: Siege both suffered slightly on the Ryzen 5 3600X and on the follow-up refresh in the Zen 2 stack, due to increased latency.No more, though. Now that all the cores of the Ryzen 5 5600X have been centralized into a single CCX design, AMD's engineers have reduced the travel time between cores and decreased the latency at the same time.",
+        "price": 20000,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Speed": "3.30 GHz Up to 4.30 GHz"
+            },
+            {
+                "Cache": "12MB, Socket: LGA 1700"
+            },
+            {
+                "Cores": "4"
+            },
+            {
+                "Threads": "8"
+            },
+            {
+                "Type": "DDR4"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+
+
+
+    {
+        "category": "Motherboard",
+        "name": "MSI B450M-A PRO MAX II AMD AM4 Motherboard",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/b450m-a-pro-max-ii/b450m-a-pro-max-ii-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The MSI B450M-A PRO MAX II AMD AM4 Motherboard is designed to support a wide range of processors, from AMD Ryzen 5000 Series to Athlon with Radeon Vega Graphics desktop processors, it ensures versatility. With support for DDR4 Memory up to 4133 (OC) MHz, it delivers rapid and efficient performance. The Turbo M.2 feature, running at PCI-E Gen3 x4, maximizes the performance of NVMe based SSDs. Experience studio-grade sound quality with Audio Boost, while the 2.5G LAN provides an upgraded network solution for professional and multimedia use. X-Boost software detects and enhances the performance of storage and USB devices, adding convenience. With Core Boost, the motherboard features a premium layout and fully digital power design, ensuring support for more cores and improved performance. The MSI B450M-A PRO MAX II AMD AM4 Motherboard combines aesthetics, power, and functionality for a dynamic computing experience.",
+        "price": 8900,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Supported CPU": "Ryzen 3rd Gen and 4th Gen processors"
+            },
+            {
+                "Supported RAM": " 2x DDR4, up to 4133 (OC) MHz"
+            },
+            {
+                "Graphics Output": " 1 x HDMI, 1x DVI"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Motherboard",
+        "name": "BIOSTAR H610MH 12th and 13th Gen Micro ATX Motherboard",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/h610mh/h610mh-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The MSI B450M-A PRO MAX II AMD AM4 Motherboard is designed to support a wide range of processors, from AMD Ryzen 5000 Series to Athlon with Radeon Vega Graphics desktop processors, it ensures versatility. With support for DDR4 Memory up to 4133 (OC) MHz, it delivers rapid and efficient performance. The Turbo M.2 feature, running at PCI-E Gen3 x4, maximizes the performance of NVMe based SSDs. Experience studio-grade sound quality with Audio Boost, while the 2.5G LAN provides an upgraded network solution for professional and multimedia use. X-Boost software detects and enhances the performance of storage and USB devices, adding convenience. With Core Boost, the motherboard features a premium layout and fully digital power design, ensuring support for more cores and improved performance. The MSI B450M-A PRO MAX II AMD AM4 Motherboard combines aesthetics, power, and functionality for a dynamic computing experience.",
+        "price": 7800,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Supported CPU": "12th/ 13th Generation Intel Core Processor"
+            },
+            {
+                "Supported RAM": "  2x DIMM, DDR4 3200 up to 64 GB"
+            },
+            {
+                "Graphics Output": " 1 x HDMI, 1 x VGA Port"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Motherboard",
+        "name": "MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/a520m-a-pro/a520m-a-pro-500x500.jpg",
+        "status": "In Stock",
+        "description": "The MSI B450M-A PRO MAX II AMD AM4 Motherboard is designed to support a wide range of processors, from AMD Ryzen 5000 Series to Athlon with Radeon Vega Graphics desktop processors, it ensures versatility. With support for DDR4 Memory up to 4133 (OC) MHz, it delivers rapid and efficient performance. The Turbo M.2 feature, running at PCI-E Gen3 x4, maximizes the performance of NVMe based SSDs. Experience studio-grade sound quality with Audio Boost, while the 2.5G LAN provides an upgraded network solution for professional and multimedia use. X-Boost software detects and enhances the performance of storage and USB devices, adding convenience. With Core Boost, the motherboard features a premium layout and fully digital power design, ensuring support for more cores and improved performance. The MSI B450M-A PRO MAX II AMD AM4 Motherboard combines aesthetics, power, and functionality for a dynamic computing experience.",
+        "price": 8500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Supported CPU": "AMD Ryzen 5000/4000G Series & AMD Ryzen 3rd Generation Processors"
+            },
+            {
+                "Supported RAM": "  Supports up to 4600(OC) MHz RAM"
+            },
+            {
+                "Graphics Output": " 1 x HDMI, 1 x VGA Port"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Motherboard",
+        "name": "Gigabyte GA-H110M-DS2 Micro ATX Motherboard",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/a520m-a-pro/a520m-a-pro-500x500.jpg",
+        "status": "In Stock",
+        "description": "Gigabyte GA-H110M-DS2 Micro ATX ultra durable motherboard has the compatibility with 7th/6th i3, i5 & i7 processors. This board also supports dual channel DDR4 maximum 32GB memory and dual Ultra-Fast SATA interface. Focusing on the graphics, it has integrated Intel HD graphics with 1GB shared graphics memory containing the resolution of 1920x1200@60 Hz for D-Sub port. This basic motherboard has the facility of Audio Noise Guard with LED Trace Path Lighting, 8-channel HD Audio with High Quality Audio Capacitors and RealtekÂ® GbE LAN with cFosSpeed Internet Accelerator Software. This board also contain All new GIGABYTEâ„¢ APP Center for simple, GIGABYTE UEFI DualBIOSâ„¢ Technology and easy use and support IntelÂ® Small Business Basics.Purchase high quality Gigabyte boards within your range, available at best price at Star Tech. We provide the best service in every aspect. Online shopping and purchase from our stores to have your desired item to build your dream PC.",
+        "price": 8500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Supported CPU": "CPU: 7th/ 6th Generation Intel Processors"
+            },
+            {
+                "Supported RAM": "Intel H110 Express2 x DDR4 DIMM"
+            },
+            {
+                "Graphics Output": " 3 x PCI Express slot"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Motherboard",
+        "name": "Asus Prime H510M-K Intel 10th and 11th Gen Micro-ATX Motherboard",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-h510m-k/prime-h510m-k-500x500.jpg",
+        "status": "In Stock",
+        "description": "Asus Prime H510M-K Intel 10th and 11th Gen Micro-ATX Motherboard is expertly engineered to unleash the full potential and supports 11th and 10th Generation Intel processors. Boasting a robust power design, comprehensive cooling solutions and intelligent tuning options, PRIME H510M-K provides daily users and DIY PC builders a range of performance tuning options via intuitive software and firmware features.",
+        "price": 10300,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Supported CPU": "11th and 10th Gen Intel Processors"
+            },
+            {
+                "Supported RAM": "Intel H110 Express2 x DDR4 DIMM"
+            },
+            {
+                "Graphics Output": " 3 x PCI Express slot"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Motherboard",
+        "name": "MSI PRO A620M-E AMD AM5 mATX Motherboard",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-a620m-e/pro-a620m-e-01-500x500.webp",
+        "status": "In Stock",
+        "description": "Asus Prime H510M-K Intel 10th and 11th Gen Micro-ATX Motherboard is expertly engineered to unleash the full potential and supports 11th and 10th Generation Intel processors. Boasting a robust power design, comprehensive cooling solutions and intelligent tuning options, PRIME H510M-K provides daily users and DIY PC builders a range of performance tuning options via intuitive software and firmware features.",
+        "price": 11500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Supported CPU": "Ryzen 7000 Series Processors for Socket AM5"
+            },
+            {
+                "Supported RAM": " 2x DDR5, Max 96GB 6000+MHz (OC)"
+            },
+            {
+                "Graphics Output": " 1x HDM, 1x VGA"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+
+
+
+
+    {
+        "category": "RAM",
+        "name": "TwinMOS 4GB DDR4 2400MHz Desktop RAM",
+        "image": "https://www.startech.com.bd/image/cache/catalog/RAM/TwinMOS/TwinMOS%204GB%20DDR4%202400-500x500.jpg",
+        "status": "In Stock",
+        "description": "Memory capacity(GB) 4GB PC Type Desktop PCsPin No. 240-pin design Bus Speed/Frequency DDR4-2400MHzWorking voltage 1.5VData transfer bandwidth 10.6GB/s",
+        "price": 3700,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Frequency": "2400MHz"
+            },
+            {
+                "Operating voltage": "1.5V"
+            },
+            {
+                "Pin": "240 pin"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "RAM",
+        "name": "PNY XLR8 8GB DDR4 3200MHz Desktop Gaming RAM",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ram/pny/xlr8/xlr8-01-500x500.jpg",
+        "status": "In Stock",
+        "description": "PNY XLR8 Desktop Gaming RAM comes with 6GB DDR4 3200MHz CL16 (PC4-25600) Frequency Speed. It's extreme performance pushes the limit with aggressive speed, low latency, and extreme overclocking capabilities. This New Gaming RAM is also support XMP 2.0 which is Super easy for overlocking and runs at top speed. In this RAM, It is engineered with heat spreaders to keep your device running cool for an ultra-real gaming experience. ",
+        "price": 1700,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Frequency": "3200MHz (PC4-25600)"
+            },
+            {
+                "Operating voltage": "Extreme Overclocking Capabilities"
+            },
+            {
+                "Pin": "XMP 2.0 support"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "RAM",
+        "name": "Gigabyte 8GB DDR4 2666MHz Heatsink Desktop Ram",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ram/gigabyte/8gb-2666/8gb-500x500.png",
+        "status": "In Stock",
+        "description": "GIGABYTE Classic Black DRAM modules with selected ICs & hand crafting engineering for the best reliability, compatibility, and performance.The GIGABYTE Memory kit is built on a ten-layer, sophisticatedly engineered PCB that ensures the stability and the high performance of the selected Ics. The heatsink of GIGABYTE Memory kit is designed to offer the best performance.The high quality materials offer better heat dissipation, guaranteeing the stability of the memory kit ",
+        "price": 2500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Frequency": " DDR4-2666 MHz"
+            },
+            {
+                "Operating voltage": "1.2V"
+            },
+            {
+                "Pin": "XMP 2.0 support"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "RAM",
+        "name": "HP V6 8GB 3200MHz DDR4 Desktop RAM",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ram/hp-ram/v6-8gb/v6-8gb-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The HP V6 8GB 3200MHz DDR4 Desktop RAM has a 1.35V rating, a CL16 latency, and a 3200MHz maximum operating speed. It can significantly increase computer performance in a variety of computing environments, including office work and home entertainment. Gamers, users looking for a better system experience, and enthusiasts of high-performance memory are the target markets for the HP V6 DDR4 RAM, which can boost system responsiveness and performance.",
+        "price": 3500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Frequency": " DDR4-3200 MHz"
+            },
+            {
+                "Operating voltage": "1.35V"
+            },
+            {
+                "Pin": "288-pin"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "RAM",
+        "name": "Kingston FURY Beast RGB 8GB 3200MHz DDR4 Desktop RAM",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast-rgb/fury-beast-rgb-01-500x500.jpg",
+        "status": "In Stock",
+        "description": "The Kingston FURY Beast RGB 8GB DDR4 Desktop RAM boosts performance and style with speeds of up to 3733MT/s, aggressive design, and RGB lighting that spans the length of the module for smooth and spectacular effects. This stunning, cost-effective upgrade is offered in speeds ranging from 2666MT/s to 3733MT/s, latencies ranging from CL15â€“19, single-module capacities ranging from 8GBâ€“to 32GB, and kit capacities ranging from 16GBâ€“to 128GB.",
+        "price": 4500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Frequency": " 3200MHz; CAS Latency: 16-18-18"
+            },
+            {
+                "Operating voltage": " 1.35V; Form Factor: UDIMM"
+            },
+            {
+                "Pin": "288-pin"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "RAM",
+        "name": "Corsair VENGEANCE 16GB DDR5 5200MHz C40 RAM",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-ddr5/vengeance-ddr5-02-500x500.jpg",
+        "status": "In Stock",
+        "description": "The Corsair VENGEANCE 16GB DDR5 5200MHz C40 RAM features the unprecedented processing speed of DDR5 that ensures your high-end CPU gets data quickly with ease. It has a tested latency of 40-40-40-77. Whether you are gaming, creating content, opening 100 tabs, or multi-tasking, your PC can power through complex tasks faster than ever before. ",
+        "price": 7500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Frequency": " 16GB, Speed: 5200MHz"
+            },
+            {
+                "Operating voltage": "  40-40-40-77"
+            },
+            {
+                "Pin": "288-pin"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+
+
+
+
+    {
+        "category": "Power Supply",
+        "name": "Antec META V350 350W Power Supply",
+        "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/meta-v350/meta-v350-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The Antec META V350 is a 350-watt power supply unit that comes with a 24-pin connector (520mm in length), an 8-pin connector for EPS12V (4+4-pin) (550mm in length), an 8-pin connector for PCI-E (6+2-pin) (550mm in length), two 6-pin connectors for SATA (400mm in length each), and two 6-pin connectors for SATA (400mm in length each). ",
+        "price": 2700,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Power": " 350 Watt"
+            },
+            {
+                "Voltage": "100VAC - 240VAC"
+            },
+            {
+                "Fan Size": "120mm"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Power Supply",
+        "name": "Gamdias Kratos M1-750B 750W 80 Plus Bronze ARGB Power Supply",
+        "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/kratos-m1-750b/kratos-m1-750b-01-500x500.jpg",
+        "status": "In Stock",
+        "description": "The Gamdias Kratos M1-750B 750W RGB Power Supply is a high-quality, ultra-quiet fan with an adjustable ARGB fan built-in. While retaining a safe and long-lasting power supply unit, it achieves 80 PLUS Bronze efficiency, considerably decreasing noise and operating costs.",
+        "price": 5500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Power": " 750 Watts"
+            },
+            {
+                "Voltage": "100-240V"
+            },
+            {
+                "Fan Size": "120mm"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Power Supply",
+        "name": "Gigabyte Aorus P750GM 750Watt 80+ Gold Full Modular Power Supply",
+        "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gigabyte/aorus-p750gm/aorus-p750gm-500x500.jpg",
+        "status": "In Stock",
+        "description": "All the black flat cables are modular design. Installing only the cables you need to reduce clutter, to increase the airflow and to improve the chassis thermal performance. All capacitors are high quality Japanese capacitors, to produce the efficient performance and to ensure the longer reliability.",
+        "price": 10900,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Power": " 750 Watts"
+            },
+            {
+                "Voltage": "100-240V"
+            },
+            {
+                "Fan Size": "120mm"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Power Supply",
+        "name": "ASUS ROG Strix 650G 650W 80 Plus Gold Power Supply",
+        "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-strix-650g/rog-strix-650g-01-500x500.jpg",
+        "status": "In Stock",
+        "description": "The ASUS ROG Strix 650G 80 Plus Gold Power Supply features high-end cooling and premium components together for an ultra-quiet high-performance product aimed at core gamers. It has a dual ball bearing setup that will last up to twice as long as a sleeve bearing design. ROG heatsinks cover critical components.",
+        "price": 13600,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Power": " 650 Watts"
+            },
+            {
+                "Voltage": "100-240V"
+            },
+            {
+                "Fan Size": "135mm"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Power Supply",
+        "name": "Thermaltake Toughpower GF1 ARGB 650W 80 Plus Gold Fully Modular",
+        "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/thermaltake/toughpower-gf1/toughpower-gf1-02-500x500.jpg",
+        "status": "In Stock",
+        "description": "Toughpower GF1 ARGB Gold Series 650Wis crafted by using cutting-edge technology and materials to become the fusion of aesthetics and performance. The series supports synchronization with compatible RGB motherboards from ASUS, GIGABYTE, MSI, and ASRock for countless illumination possibilities. The patented 16.8 million-color Riing Duo 14 RGB fan with 18 LEDs preinstalled helps deliver brighter and stunning light effect. ",
+        "price": 11300,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Power": " 650 Watts"
+            },
+            {
+                "Voltage": "100-240V"
+            },
+            {
+                "Fan Size": "135mm"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Power Supply",
+        "name": "TDeepCool DQ650-M-V2L 650W 80 Plus Gold Full Modular Power Supply",
+        "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/deepcool/dq650-m-v2l/dq650-m-v2l-001-500x500.webp",
+        "status": "In Stock",
+        "description": "Toughpower GF1 ARGB Gold Series 650Wis crafted by using cutting-edge technology and materials to become the fusion of aesthetics and performance. The series supports synchronization with compatible RGB motherboards from ASUS, GIGABYTE, MSI, and ASRock for countless illumination possibilities. The patented 16.8 million-color Riing Duo 14 RGB fan with 18 LEDs preinstalled helps deliver brighter and stunning light effect. ",
+        "price": 8000,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Power": " 650 Watts"
+            },
+            {
+                "Voltage": "100-240V"
+            },
+            {
+                "Fan Size": "135mm"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+
+
+
+
+    {
+        "category": "Storage",
+        "name": "Samsung 970 EVO Plus NVMe M.2 250GB SSD",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/evo-970/250gb-plus-500x500.png",
+        "status": "In Stock",
+        "description": "The ultimate in performance, upgraded. Faster than the 970 EVO, the 970 EVO Plus is powered by the latest V-NAND technology and firmware optimization. It maximizes the potential of NVMe bandwidth for unbeatable computing. Comes in capacities of up to 1TB, with reliability of up to 600 TBW.The 970 EVO Plus reaches sequential read/write speeds up to 3,500/3,300 MB/s, up to 53% faster than the 970 EVO. Powered by the latest V-NAND technologyâ€”which brings greater NAND performance and higher power efficiencyâ€”along with optimized firmware, a proven Phoenix controller, and Intelligent TurboWrite boost speed.The next advancement in NVMe SSDs",
+        "price": 4199,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Sequential R/W": " 2,300MB/s Seq. Write3,500MB/s Seq. Read"
+            },
+            {
+                "Interface": "PCIe Gen 3.0 x 4, NVMe 1.3"
+            },
+            {
+                "Capacity": "250GB"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Storage",
+        "name": "HP EX900 PLUS 512GB M.2 PCIe NVMe Internal SSD",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/ex900-plus-512gb/ex900-plus-512gb-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The HP EX900 PLUS 512GB M.2 PCIe NVMe Internal SSD is a high-performing storage solution designed to provide exceptional speed and capacity for demanding tasks like gaming and content creation. Utilizing NVMe technology and 3D NAND Flash Memory, this SSD delivers impressive read and write speeds, boosting overall system performance. Compared to its predecessor, the HP EX900 PLUS M.2 SSD now offers a larger capacity of 512GB, giving you ample space for storing games, multimedia files, and applications. The new-generation EX900 PLUS brings significant performance enhancements, achieving up to 67% faster read and write speeds.",
+        "price": 3400,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Sequential R/W": " Sequential R/W: up to 3300MB/s / 2700MB/s"
+            },
+            {
+                "Interface": "PCIe 3.0 x 4"
+            },
+            {
+                "Capacity": "512GB"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Storage",
+        "name": "Western Digital Green SN350 240GB M.2 NVMe Gen3 SSD",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/western-digital/green-sn350/wd-green-sn350-240gb-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The Western Digital Green SN350 240GB NVMe SSD can revitalize your old computer for daily use. It ensures a sequential read performance of 2400MB/s and a sequential write performance of up to 900MB/s. This SSD can work up to four times faster than SATA drives as they have no moving parts. The Western Digital Green SN350 NVMe SSD offers a shock-resistant design to help protect your important data against accidental bumps and drops.",
+        "price": 2190,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Sequential R/W": " Sequential Read Performance: 2400MB/s Sequential Write Performance: 900MB/s"
+            },
+            {
+                "Interface": "PCIe Gen3 8Gb/s"
+            },
+            {
+                "Capacity": "240 GB"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Storage",
+        "name": "Gigabyte 128GB M.2 2280 PCIe 3.0x2 NVMe SSD",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/gigabyte/128gb/gigabyte-128gb-m2-ssd-500x500.jpg",
+        "status": "In Stock",
+        "description": "The Gigabyte M.2 PCIe SSD 128GB uses the Host Memory Buffer(HMB) feature to use the Direct Memory Access(DMA) of PCI Express which allows the SSD to use some of the DRAM on your PC. This allows the SSD to not use its own DRAM. This increases the performance of your daily work by boosting the performance of your controller and NAND Flash.",
+        "price": 2000,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Sequential R/W": " Sequential Read speed Up to 1550 MB/s Sequential Write speed Up to 550 MB/s"
+            },
+            {
+                "Interface": "PCI-Express 3.0 x2, NVMe 1.3"
+            },
+            {
+                "Capacity": "128GB"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Storage",
+        "name": "Corsair Force MP510 480 GB NVMe PCIe Gen3 M.2 SSD",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/corsair/force-mp-510/force-mp-510-1-500x500.jpg",
+        "status": "In Stock",
+        "description": "The Gigabyte M.2 PCIe SSD 128GB uses the Host Memory Buffer(HMB) feature to use the Direct Memory Access(DMA) of PCI Express which allows the SSD to use some of the DRAM on your PC. This allows the SSD to not use its own DRAM. This increases the performance of your daily work by boosting the performance of your controller and NAND Flash.",
+        "price": 5150,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Sequential R/W": " SSD Max Sequential Read CDM: Up to 3,480MB/s SSD Max Sequential Write CDM: Up to 2,000MB/s"
+            },
+            {
+                "Interface": "PCIe Gen 3.0 x4"
+            },
+            {
+                "Capacity": "480GB"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Storage",
+        "name": "Transcend 115S 500GB M.2 PCIe Gen3 x4 NVMe SSD (M-Key)",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/115s-500gb/115s-500gb-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The Transcend 115S 500GB M.2 PCIe Gen3 x4 NVMe SSD will significantly increase the performance of your computer. With amazing performance and plenty of storage capacity, this stylish and potent SSD is made to be the ideal partner for desktops, laptops, and ultrabooks. The Transcend 115S follows NVMe 1.4 specifications and utilizes the PCIe Gen3 x4 interface, which means it uses four lanes for simultaneous data transmission and reception.",
+        "price": 3800,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Sequential R/W": " up to 3,200/2,000 MB/s"
+            },
+            {
+                "Interface": "NVMe PCIe Gen3 x4"
+            },
+            {
+                "Capacity": "500GB"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+
+
+
+    
+    {
+        "category": "Monitor",
+        "name": "HP M24f 24 FHD IPS Monitor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m24f/m24f-500x500.jpg",
+        "status": "In Stock",
+        "description": "HP M24f 24 FHD IPS Monitor feels as good as it looks, packing IPS technology for 178 degrees ultra-wide viewing angles, 99% sRGB color gamut for color accuracy, and Freesync to keep your eyes up to speed with your imagination. Increase viewing comfort with Eyesafe technology that doesnt sacrifice color quality. ",
+        "price": 20500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Display Type": "FHD LED"
+            },
+            {
+                "Display Size": "23.8 Inch"
+            },
+            {
+                "Panel Type": "IPS"
+            },
+            {
+                "Resolution": "FHD (1920 x 1080)"
+            },
+            {
+                "Refresh Rate": "75Hz"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Monitor",
+        "name": "LG 24GN65R-B 23.8 Inch FHD IPS 144Hz Gaming Monitor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/lg-24gn65r-b/lg-24gn65r-b-500x500.webp",
+        "status": "In Stock",
+        "description": "This LG 24GN65R-B 23.8 Inch FHD IPS 144Hz Gaming Monitor has a 23.8 inch flat IPS display that delivers stunning colors and clarity with a resolution of 1920x1080. Smooth and responsive gameplay is provided by its quick 1ms reaction time and high 144Hz refresh rate. In addition, LG 24GN65R-B 23.8 Inch FHD IPS 144Hz Gaming Monitor supports AMD FreeSync, a feature that prevents screen tearing and stuttering.  ",
+        "price": 27499,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Display Type": "FHD LED"
+            },
+            {
+                "Display Size": "23.8 Inch"
+            },
+            {
+                "Panel Type": "IPS"
+            },
+            {
+                "Resolution": "FHD (1920 x 1080)"
+            },
+            {
+                "Refresh Rate": "144Hz"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Monitor",
+        "name": "ASUS TUF Gaming VG247Q1A 23.8 inch 165Hz Full HD Gaming Monitor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/asus/vg247q1a/vg247q1a-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The ASUS TUF Gaming VG247Q1A 23.8 16:9 165Hz Gaming Monitor will let you immerse yourself in your favorite games. The VG247Q1A, which was made for gamers, has a high refresh rate and quick reaction times, making it the perfect choice for competitive, time-sensitive games. Such a Monitor Intense 3500:1 contrast, 1920 x 1080 resolution, support for 16.7 million colors, and a 350 cd/m2 brightness are provided by Vertical Alignment (VA) panel technology, drawing you into virtual landscapes and immersing you fully in your favorite games",
+        "price": 23500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Display Type": "FHD LED"
+            },
+            {
+                "Display Size": "23.8 Inch"
+            },
+            {
+                "Panel Type": "IPS"
+            },
+            {
+                "Resolution": "FHD (1920 x 1080)"
+            },
+            {
+                "Refresh Rate": "165Hz"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Monitor",
+        "name": "BenQ ZOWIE XL2546 24.5 inch FHD 240Hz DyAc Technology 1ms Gaming",
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/benq/xl2546k/zowie-xl2546-500x500.jpg",
+        "status": "In Stock",
+        "description": "The BenQ ZOWIE XL2546 features the premiere monitors for PC s-Sports, fine-tuned to guarantee the smoothest and most responsive experience, and the clearest images to arm you for competition. For additional clarity, this display has a 1920 x 1080 FHD screen that offers four times the resolution of a standard 1080p screen so you'll be able to work on the finer details. Connect this display to your system via HDMI & DVI- DL port and then adjust it to your viewing preference.",
+        "price": 42500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Display Type": "LCD"
+            },
+            {
+                "Display Size": "24.5 Inch"
+            },
+            {
+                "Panel Type": "TN"
+            },
+            {
+                "Resolution": "FHD (1920 x 1080)"
+            },
+            {
+                "Refresh Rate": "240Hz"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Monitor",
+        "name": "SAMSUNG LF22T350 22 Full HD IPS LED Monitor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/samsung/lf22t350fhnxza/lf22t350fhnxza-500x500.jpg",
+        "status": "In Stock",
+        "description": "SAMSUNG LF22T350 comes with 22 75Hz Full HD IPS LED Display. The SAMSUNG monitor featured with 3-sided borderless display brings a clean and modern aesthetic to any working environment. In a multi-monitor setup, the displays line up seamlessly for a virtually gapless view without distractions. Sit anywhere and have a full technicolor experience. The IPS panel preserves color vividness and clarity across every inch of the screen. ",
+        "price": 12600,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Display Type": "LED"
+            },
+            {
+                "Display Size": "22 Inch"
+            },
+            {
+                "Panel Type": "IPS"
+            },
+            {
+                "Resolution": "FHD (1920 x 1080)"
+            },
+            {
+                "Refresh Rate": "60Hz"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    },
+    {
+        "category": "Monitor",
+        "name": "Acer HA240Y 24 FHD IPS Ultra Slim Monitor",
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/ha240y/ha240y-01-500x500.webp",
+        "status": "In Stock",
+        "description": "The Acer HA240Y 24-inch IPS Full HD Monitor comes with a slim design that provides the screen more room and guarantees the monitor looks amazing. With a thickness of just 6.6mm, the HA0 is incredibly trendy. It has a chic geometric foundation and looks fantastic wherever it is put. the ZeroFrame increases viewing pleasure and maximize screen visibility. With the 2Watt Speakers, you may use the built-in slimline speakers to enjoy high-quality audio from videos and games. You may share the visuals with those nearby thanks to Encompassing Technology's wide viewing angles and IPS Display technology",
+        "price": 21500,
+        "individualRating": 5,
+        "averageRating": 4.7,
+        "comments": [
+            {
+                "comment": "Great product!",
+                "createdAt": "2023-08-22T12:34:56Z"
+            },
+            {
+                "comment": "Could be better.",
+                "createdAt": "2023-08-23T10:11:12Z"
+            }
+        ],
+        "keyFeatures": [
+            {
+                "Display Type": "LED"
+            },
+            {
+                "Display Size": "23.8-Inch"
+            },
+            {
+                "Panel Type": "IPS"
+            },
+            {
+                "Resolution": "FHD (1920 x 1080)"
+            },
+            {
+                "Refresh Rate": "75Hz"
+            }
+        ],
+        "createdOn": "2023-08-21T18:30:00Z"
+    }
+
+]

@@ -3,7 +3,7 @@ const cors = require("cors");
 require("./config/db");
 
 const userRouter = require("./routes/user.route");
-const bookRouter = require("./routes/book.route");
+const productRouter = require("./routes/product.route");
 
 const app = express();
 
@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.use("/api/users", userRouter);
-app.use("/api/books", bookRouter);
+app.use("/api/products", productRouter);
 
 // api/users : GET
 // api/users/:id : GET
