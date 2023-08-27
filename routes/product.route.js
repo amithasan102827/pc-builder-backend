@@ -8,13 +8,15 @@ const {
     deleteProduct,
     updateProduct,
     addComment,
-    getCommentsByProductId
+    getCommentsByProductId,
+    getCategoryProduct
 } = require("../controllers/product.controller");
 
 
 router.post("/", createProduct);
 router.get("/", getAllProducts);
 router.get("/:id", getSingleProduct);
+router.get("/category/:category", getCategoryProduct);
 router.delete("/:id", deleteProduct);
 router.patch("/:id", updateProduct);
 router.post("/:id", addComment);

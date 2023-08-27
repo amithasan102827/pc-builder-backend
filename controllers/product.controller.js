@@ -32,6 +32,23 @@ const getSingleProduct = async (req, res) => {
     }
 };
 
+
+// getProductbyCategory
+const getCategoryProduct = async (req, res) => {
+    try {
+        const category = req.params.category;
+
+        // Find products that have the specified category in their 'category' field
+        const products = await Product.find({ category: category });
+
+        res.status(200).json(products);
+    } catch (error) {
+        res.status(500).send(error.message);
+    }
+};
+
+
+
 // deleteProduct
 const deleteProduct = async (req, res) => {
     try {
@@ -114,5 +131,6 @@ module.exports = {
     deleteProduct,
     updateProduct,
     addComment,
-    getCommentsByProductId
+    getCommentsByProductId,
+    getCategoryProduct
 };
