@@ -12,6 +12,7 @@ const createProduct = async (req, res) => {
     }
 };
 
+
 // getAllProducts
 const getAllProducts = async (req, res) => {
     try {
